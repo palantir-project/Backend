@@ -1,0 +1,42 @@
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/appsettings.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/Properties/restApiConfig.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/api
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/api.deps.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/api.runtimeconfig.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/api.runtimeconfig.dev.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/api.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/api.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.csprojAssemblyReference.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/staticwebassets/api.StaticWebAssets.Manifest.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/staticwebassets/api.StaticWebAssets.xml
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.MvcApplicationPartsAssemblyInfo.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.AssemblyInfoInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.AssemblyInfo.cs
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.RazorTargetAssemblyInfo.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.csproj.CopyComplete
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/api/obj/Debug/netcoreapp3.1/api.pdb
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\Properties\restApiConfig.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\api.exe
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\api.deps.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\api.dll
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\api.pdb
+D:\gcozzi\Downloads\information-radiator\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.csprojAssemblyReference.cache
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.dll
+D:\gcozzi\Downloads\information-radiator\api\obj\Debug\netcoreapp3.1\api.pdb

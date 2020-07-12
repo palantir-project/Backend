@@ -1,0 +1,14 @@
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Redmine.deps.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Redmine.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Redmine.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Domain.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Exceptions.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Domain.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/bin/Debug/netstandard2.0/Palantir.Exceptions.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.csprojAssemblyReference.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.AssemblyInfoInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.AssemblyInfo.cs
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.csproj.CoreCompileInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.csproj.CopyComplete
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/obj/Debug/netstandard2.0/Palantir.Redmine.pdb

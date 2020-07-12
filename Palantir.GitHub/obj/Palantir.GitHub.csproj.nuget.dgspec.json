@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/Palantir.GitHub.csproj": {}
+  },
+  "projects": {
+    "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj",
+        "projectName": "Palantir.Domain",
+        "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj",
+        "packagesPath": "/home/gcozzi/.nuget/packages/",
+        "outputPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gcozzi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Exceptions/Palantir.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Exceptions/Palantir.Exceptions.csproj",
+        "projectName": "Palantir.Exceptions",
+        "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Exceptions/Palantir.Exceptions.csproj",
+        "packagesPath": "/home/gcozzi/.nuget/packages/",
+        "outputPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Exceptions/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gcozzi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/Palantir.GitHub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/Palantir.GitHub.csproj",
+        "projectName": "Palantir.GitHub",
+        "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/Palantir.GitHub.csproj",
+        "packagesPath": "/home/gcozzi/.nuget/packages/",
+        "outputPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gcozzi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj": {
+                "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj"
+              },
+              "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Exceptions/Palantir.Exceptions.csproj": {
+                "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Exceptions/Palantir.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

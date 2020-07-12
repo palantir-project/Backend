@@ -1,0 +1,14 @@
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.TravisCI.deps.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.TravisCI.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.TravisCI.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.Domain.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.Exceptions.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.Domain.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/bin/Debug/netstandard2.0/Palantir.Exceptions.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.AssemblyInfoInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.AssemblyInfo.cs
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.csproj.CoreCompileInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.csproj.CopyComplete
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/obj/Debug/netstandard2.0/Palantir.TravisCI.csprojAssemblyReference.cache

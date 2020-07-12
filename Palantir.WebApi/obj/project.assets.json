@@ -1,0 +1,367 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      },
+      "System.Text.Json/4.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        }
+      },
+      "Palantir.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.Text.Json": "4.7.1"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.Domain.dll": {}
+        }
+      },
+      "Palantir.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Palantir.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.Exceptions.dll": {}
+        }
+      },
+      "Palantir.GitHub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Palantir.Domain": "1.0.0",
+          "Palantir.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.GitHub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.GitHub.dll": {}
+        }
+      },
+      "Palantir.GitLab/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Palantir.Domain": "1.0.0",
+          "Palantir.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.GitLab.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.GitLab.dll": {}
+        }
+      },
+      "Palantir.HostedRedmine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Palantir.Domain": "1.0.0",
+          "Palantir.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.HostedRedmine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.HostedRedmine.dll": {}
+        }
+      },
+      "Palantir.IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Palantir.Domain": "1.0.0",
+          "Palantir.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.IO.dll": {}
+        }
+      },
+      "Palantir.Redmine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Palantir.Domain": "1.0.0",
+          "Palantir.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.Redmine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.Redmine.dll": {}
+        }
+      },
+      "Palantir.TravisCI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Palantir.Domain": "1.0.0",
+          "Palantir.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palantir.TravisCI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palantir.TravisCI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.2": {
+      "sha512": "rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "sha512": "Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.1.118",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "stylecop.analyzers.1.1.118.nupkg.sha512",
+        "stylecop.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "System.Text.Json/4.7.1": {
+      "sha512": "XwzMbct3iNepJaFylN1+l8weWlFburEzXidqleSsLvSXdHSIJHEKtRVKHPlpWcFmJX6k3goPFfVgUfp40RR+bg==",
+      "type": "package",
+      "path": "system.text.json/4.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/netcoreapp3.0/System.Text.Json.dll",
+        "lib/netcoreapp3.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.4.7.1.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Palantir.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.Domain/Palantir.Domain.csproj",
+      "msbuildProject": "../Palantir.Domain/Palantir.Domain.csproj"
+    },
+    "Palantir.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.Exceptions/Palantir.Exceptions.csproj",
+      "msbuildProject": "../Palantir.Exceptions/Palantir.Exceptions.csproj"
+    },
+    "Palantir.GitHub/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.GitHub/Palantir.GitHub.csproj",
+      "msbuildProject": "../Palantir.GitHub/Palantir.GitHub.csproj"
+    },
+    "Palantir.GitLab/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.GitLab/Palantir.GitLab.csproj",
+      "msbuildProject": "../Palantir.GitLab/Palantir.GitLab.csproj"
+    },
+    "Palantir.HostedRedmine/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.HostedRedmine/Palantir.HostedRedmine.csproj",
+      "msbuildProject": "../Palantir.HostedRedmine/Palantir.HostedRedmine.csproj"
+    },
+    "Palantir.IO/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.IO/Palantir.IO.csproj",
+      "msbuildProject": "../Palantir.IO/Palantir.IO.csproj"
+    },
+    "Palantir.Redmine/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.Redmine/Palantir.Redmine.csproj",
+      "msbuildProject": "../Palantir.Redmine/Palantir.Redmine.csproj"
+    },
+    "Palantir.TravisCI/1.0.0": {
+      "type": "project",
+      "path": "../Palantir.TravisCI/Palantir.TravisCI.csproj",
+      "msbuildProject": "../Palantir.TravisCI/Palantir.TravisCI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Newtonsoft.Json >= 12.0.2",
+      "Palantir.Domain >= 1.0.0",
+      "Palantir.GitHub >= 1.0.0",
+      "Palantir.GitLab >= 1.0.0",
+      "Palantir.HostedRedmine >= 1.0.0",
+      "Palantir.IO >= 1.0.0",
+      "Palantir.Redmine >= 1.0.0",
+      "Palantir.TravisCI >= 1.0.0",
+      "StyleCop.Analyzers >= 1.1.118"
+    ]
+  },
+  "packageFolders": {
+    "/home/gcozzi/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/Palantir.WebApi.csproj",
+      "projectName": "Palantir.WebApi",
+      "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/Palantir.WebApi.csproj",
+      "packagesPath": "/home/gcozzi/.nuget/packages/",
+      "outputPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/home/gcozzi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Domain/Palantir.Domain.csproj"
+            },
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/Palantir.GitHub.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitHub/Palantir.GitHub.csproj"
+            },
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/Palantir.GitLab.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/Palantir.GitLab.csproj"
+            },
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.HostedRedmine/Palantir.HostedRedmine.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.HostedRedmine/Palantir.HostedRedmine.csproj"
+            },
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/Palantir.IO.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/Palantir.IO.csproj"
+            },
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/Palantir.Redmine.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.Redmine/Palantir.Redmine.csproj"
+            },
+            "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/Palantir.TravisCI.csproj": {
+              "projectPath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.TravisCI/Palantir.TravisCI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.2, )"
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.118, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

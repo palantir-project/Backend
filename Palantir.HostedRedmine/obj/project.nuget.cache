@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gaKxDjUZWDx6mbZte5gai20qdq9TNgy5Fi4KTQ38nM717BBcDmcPmcLRLqiJP2CZSaisxOd2H5jCD2uOqegyg==",
+  "success": true,
+  "projectFilePath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.HostedRedmine/Palantir.HostedRedmine.csproj",
+  "expectedPackageFiles": [
+    "/home/gcozzi/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

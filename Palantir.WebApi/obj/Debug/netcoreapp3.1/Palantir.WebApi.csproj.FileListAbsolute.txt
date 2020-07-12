@@ -1,0 +1,81 @@
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/appsettings.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Properties/restApiConfig.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Palantir.WebApi.exe
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Palantir.WebApi.deps.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Palantir.WebApi.runtimeconfig.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Palantir.WebApi.runtimeconfig.dev.json
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Palantir.WebApi.dll
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Palantir.WebApi.pdb
+D:/gcozzi/Downloads/information-radiator/api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.csprojAssemblyReference.cache
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/staticwebassets/Palantir.WebApi.StaticWebAssets.Manifest.cache
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/staticwebassets/Palantir.WebApi.StaticWebAssets.xml
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.AssemblyInfoInputs.cache
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.AssemblyInfo.cs
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.RazorTargetAssemblyInfo.cache
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.csproj.CopyComplete
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.dll
+D:/gcozzi/Downloads/information-radiator/api/obj/Debug/netcoreapp3.1/Palantir.WebApi.pdb
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/appsettings.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Properties/restApiConfig.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.exe
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.deps.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.runtimeconfig.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.runtimeconfig.dev.json
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.dll
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.pdb
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/staticwebassets/Palantir.WebApi.StaticWebAssets.Manifest.cache
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/staticwebassets/Palantir.WebApi.StaticWebAssets.xml
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.AssemblyInfoInputs.cache
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.AssemblyInfo.cs
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.RazorTargetAssemblyInfo.cache
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.csproj.CopyComplete
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.dll
+D:/gcozzi/Downloads/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/appsettings.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Properties/apiConfig.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.deps.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.runtimeconfig.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.runtimeconfig.dev.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.WebApi.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.Domain.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.Exceptions.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.GitHub.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.GitLab.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.HostedRedmine.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.IO.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.Redmine.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.TravisCI.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.Domain.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.GitHub.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.GitLab.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.Redmine.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.HostedRedmine.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.TravisCI.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.IO.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/bin/Debug/netcoreapp3.1/Palantir.Exceptions.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.csprojAssemblyReference.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.AssemblyInfoInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.AssemblyInfo.cs
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.csproj.CoreCompileInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.RazorTargetAssemblyInfo.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.csproj.CopyComplete
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/staticwebassets/Palantir.WebApi.StaticWebAssets.Manifest.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/staticwebassets/Palantir.WebApi.StaticWebAssets.xml
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/obj/Debug/netcoreapp3.1/Palantir.WebApi.genruntimeconfig.cache

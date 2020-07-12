@@ -1,0 +1,14 @@
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.IO.deps.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.IO.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.IO.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.Domain.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.Exceptions.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.Domain.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/bin/Debug/netstandard2.0/Palantir.Exceptions.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.AssemblyInfoInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.AssemblyInfo.cs
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.csproj.CoreCompileInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.csproj.CopyComplete
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.IO/obj/Debug/netstandard2.0/Palantir.IO.csprojAssemblyReference.cache

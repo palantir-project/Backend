@@ -1,0 +1,14 @@
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.GitLab.deps.json
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.GitLab.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.GitLab.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.Domain.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.Exceptions.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.Domain.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/bin/Debug/netstandard2.0/Palantir.Exceptions.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.AssemblyInfoInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.AssemblyInfo.cs
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.csproj.CoreCompileInputs.cache
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.csproj.CopyComplete
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.dll
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.pdb
+/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.GitLab/obj/Debug/netstandard2.0/Palantir.GitLab.csprojAssemblyReference.cache

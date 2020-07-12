@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9YcV7rzJm1lHwZgotyNJ9p1AqLjuGWU5LjhjFp24OGRflM508TQb6histdg2X0y250wWbjqn8mCL4+rXZY8sw==",
+  "success": true,
+  "projectFilePath": "/home/gcozzi/Documentos/UNTREF/Trabajo de Tesis/Practica/information-radiator/Palantir.WebApi/Palantir.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/gcozzi/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512",
+    "/home/gcozzi/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
