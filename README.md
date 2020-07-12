@@ -1,0 +1,2 @@
+# Backend
+Web API developed in .NET Core for the Palantir Information Radiator project. Main objective: to communicate with various online administration and monitoring services of software development projects, such as GitHub, Pivotal Tracker, GitLab, among others, whose data will be displayed in the Palantir web UI on Tizen OS Smart TVs and another devices as single-board computers such as Raspberry Pi.
